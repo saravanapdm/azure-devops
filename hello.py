@@ -1,10 +1,10 @@
 def toyou(x):
-^Ireturn "hi %s" % x
+	return "hi %s" % x
 
 
 def add(x):
-^Ireturn x + 1
+	return x + 1
 
 
 def subtract(x):
-^Ireturn x - 1
+	return x - 1
